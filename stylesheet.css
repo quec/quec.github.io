@@ -13,7 +13,7 @@ html, body {
 
 .header, .footer {
   background-color: #8F728B;
-  height: 75px;
+  height: 60px;
   width: 100%;
 }
 
@@ -23,8 +23,8 @@ html, body {
 
 .content {
   background-color: white;
-  top: 75px;
-  bottom: 75px;
+  top: 60px;
+  bottom: 60px;
 }
 
 .footer {
