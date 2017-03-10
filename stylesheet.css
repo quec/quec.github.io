@@ -1,17 +1,16 @@
 body {
   background-color: #FFF2FF;
+  margin: 0px;
 }
 
 .header, .footer {
   background-color: #8F728B;
-  max-width: 100%;
   width: 100%;
   padding: 30px;
 }
 
 .content {
   background-color: white;
-  max-width: 100%;
   width: 100%;
   padding: 30px;
 }
