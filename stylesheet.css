@@ -38,3 +38,7 @@ a {
   padding-right: 10px;
   font-weight: bold;
 }
+
+a:hover {
+  color: #E5B9E1; 
+}
