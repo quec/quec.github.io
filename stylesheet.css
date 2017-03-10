@@ -6,14 +6,17 @@ body {
 
 .header, .footer {
   background-color: #8F728B;
-  padding: 20px;
+  height: 50px;
 }
 
 .content {
   background-color: white;
-  padding: 20px;
+  top: 50px;
+  bottom: 50px;
 }
 
 .header, .content, .footer {
-  position: absolute;  
+  position: absolute;
+  width: 100%;
+  padding: 20px;
 }
