@@ -11,10 +11,8 @@ body {
 .content {
   background-color: white;
   padding: 20px;
-  position: absolute;
-  height: auto;
-  bottom: 0;
-  top: 0;
-  left: 0;
-  right: 0;
+}
+
+.header, .content, .footer {
+  position: absolute;  
 }
