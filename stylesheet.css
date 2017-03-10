@@ -4,6 +4,7 @@ body {
 
 .header, .footer {
   background-color: #8F728B;
+  width: 100%;
 }
 
 .content {
