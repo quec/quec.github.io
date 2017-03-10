@@ -6,10 +6,12 @@ body {
   background-color: #8F728B;
   max-width: 100%;
   width: 100%;
+  margin: 30px;
 }
 
 .content {
   background-color: white;
   max-width: 100%;
   width: 100%;
+  margin: 30px;
 }
