@@ -21,10 +21,6 @@ html, body {
   top: 0;
 }
 
-.header a {
- color: white; 
-}
-
 .content {
   background-color: white;
   top: 60px;
@@ -35,6 +31,7 @@ html, body {
   bottom: 0;
 }
 
-.footer a {
- color: white; 
+a {
+  color: white; 
+  text-decoration: none;
 }
