@@ -1,6 +1,7 @@
 body {
   background-color: #FFF2FF;
   margin: 0px;
+  position: relative;
 }
 
 .header, .footer {
