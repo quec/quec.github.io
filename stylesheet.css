@@ -8,13 +8,13 @@ html, body {
 
 .header, .content, .footer {
   position: absolute;
-  width: 100%;
   padding: 20px;
 }
 
 .header, .footer {
   background-color: #8F728B;
   height: 75px;
+  width: 100%;
 }
 
 .content {
@@ -23,6 +23,6 @@ html, body {
   bottom: 75px;
 }
 
-.footer {
-  bottom: 0; 
-}
+#.footer {
+#  bottom: 0; 
+#}
