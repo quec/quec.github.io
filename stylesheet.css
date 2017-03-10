@@ -1,6 +1,7 @@
 body {
   background-color: #FFF2FF;
-  margin: 0px;
+  margin: 0;
+  padding: 0;
   position: relative;
   height: 100%;
 }
