@@ -14,13 +14,13 @@ html, body {
 
 .header, .footer {
   background-color: #8F728B;
-  height: 100px;
+  height: 75px;
 }
 
 .content {
   background-color: white;
-  top: 100px;
-  bottom: 100px;
+  top: 75px;
+  bottom: 75px;
 }
 
 .footer {
