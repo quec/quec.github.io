@@ -9,12 +9,12 @@ html, body {
 .header, .content, .footer {
   position: absolute;
   padding: 20px;
+  width: 100%;
 }
 
 .header, .footer {
   background-color: #8F728B;
   height: 60px;
-  width: 100%;
 }
 
 .header {
